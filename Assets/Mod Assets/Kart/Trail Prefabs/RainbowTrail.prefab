@@ -77,6 +77,8 @@ TrailRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -88,6 +90,7 @@ TrailRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -117,8 +120,8 @@ TrailRenderer:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.119549185
-        value: 0.6922054
+        time: 0.23719445
+        value: 0.3067913
         inSlope: -0.7099102
         outSlope: -0.7099102
         tangentMode: 0
@@ -126,8 +129,8 @@ TrailRenderer:
         inWeight: 0.73180956
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.28241187
-        value: 0.8951372
+        time: 0.52241373
+        value: 0.9055551
         inSlope: -1.4847497
         outSlope: -1.4847497
         tangentMode: 0
@@ -135,8 +138,8 @@ TrailRenderer:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.38024223
-        value: 0.45093054
+        time: 0.5543603
+        value: 0.2582273
         inSlope: -1.6205783
         outSlope: -1.6205783
         tangentMode: 0
@@ -144,8 +147,8 @@ TrailRenderer:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.57298493
-        value: 0.6712527
+        time: 0.775347
+        value: 0.60354185
         inSlope: -0.480656
         outSlope: -0.480656
         tangentMode: 0
@@ -153,8 +156,8 @@ TrailRenderer:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.6993373
-        value: 0.2016609
+        time: 0.8146327
+        value: 0.118332654
         inSlope: -1.444368
         outSlope: -1.444368
         tangentMode: 0
@@ -162,8 +165,8 @@ TrailRenderer:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.8543319
-        value: 0.40410036
+        time: 0.9696273
+        value: 0.21660036
         inSlope: -0.3237343
         outSlope: -0.3237343
         tangentMode: 0
